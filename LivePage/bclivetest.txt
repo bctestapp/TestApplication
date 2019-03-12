@@ -1,0 +1,334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><!-- InstanceBegin template="/Templates/CE_Home_ND.dwt.asp" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Bellevue College Continuing Education</title>
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="head" -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="google-site-verification" content="QVKnyC6EE6pEzWQPzJyXb-P1Hk_t06JXz2SCLT-YV1Q">
+<meta name="msvalidate.01" content="BDA8B7F45381053973E905ABB5FC0162">
+<meta name="y_key" content="4626714a1425e7ac">
+<meta name="description" content="Bellevue College Continuing Education provides professional training, certificate programs and personal enrichment classes to adults in the Seattle-Bellevue area.">
+<meta name="classification" content="colleges and universities, adult education, training programs">
+<meta name="keywords" content="bellevue college, continuing education, certificate programs, professional development, career training, job training, business classes, adult education, lifelong learning,  personal enrichment, seattle wa">
+
+
+<style type="text/css">
+<!--
+#alertmessage {
+    background-color: #990000;
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    font-size: 14px;
+    margin: 21px 0;
+    padding: 10px 20px 11px;
+}
+#alertmessage.open {
+    background-color: #A5C627;
+    color: black;
+    font-size: 13px;
+}
+#alertmessage p {
+    margin: 0;
+}
+#alertmessage a {
+    color: white;
+}
+#alertmessage.open a {
+    color: #003D79;
+}
+#marketing.alertmessage h3 {
+    padding: 100px 20px 0;
+}
+#marketing.alertmessage p {
+    padding: 0 20px;
+}
+#marketing.alertmessage p.updated {
+    padding: 0 20px;
+}
+-->
+</style>
+
+<!-- InstanceEndEditable -->
+<link href="/styles/CE_Styles_ND.css" rel="stylesheet" type="text/css">
+<link href="/styles/menustyle_new.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+<!--
+function kadabra(zap) {
+ if (document.getElementById) {
+  var abra = document.getElementById(zap).style;
+  if (abra.display == "block") {
+   abra.display = "none";
+   } else {
+    abra.display = "block";
+   }
+   return false;
+   } else {
+   return true;
+  }
+ }
+-->
+</script>
+<script type="text/javascript" src="/javascript/menu_new.js"></script>
+</head>
+
+<body>
+<a href="#skip-to-content" class="hide">Skip to content</a>
+<table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#CCCCCC">
+    <tr>
+      <td align="center" bgcolor="#CCCCCC"><!-- #BeginLibraryItem "/Library/Top.lbi" --><img src="/images/home/sp2011.jpg" width="750" height="92" border="0" align="middle" alt="Bellevue College Continuing Education Banner" usemap="#Map">
+<map name="Map">
+  <area shape="rect" coords="17,11,219,80" href="http://continuingeducation.bellevuecollege.edu" alt="Go to Bellevue College Continuing Education Home Page">
+  
+</map>
+<!-- #EndLibraryItem --></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><table width="776"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="right"><img src="" alt="" name="spacer" width="1" height="1" id="spacer"></td>
+          <td bgcolor="#000000"><table width="100%"  border="0" cellpadding="1" cellspacing="0" bgcolor="#000000">
+            <tr>
+              <td align="center"><a href="/"><img src="/images/menu/NavPriHome_set.jpg" alt="Home" title="Home" width="101" height="25" border="0"></a><a href="/about/"><img src="/images/menu/NavPriAbout_off.jpg" alt="About" title="About" width="101" height="25" border="0"></a><a  href="http://www.campusce.net/BC/category/category.aspx" onClick="pageTracker._link(this.href); return false;"><img src="/images/menu/NavPriClass_off.jpg" alt="Classes" title="Classes" width="101" height="25"  border="0"></a><a href="/registration/"><img src="/images/menu/NavPriReg_off.jpg" alt="Registration" title="Registration" width="101" height="25" border="0"></a><a href="/resources/"><img src="/images/menu/NavPriRes_off.jpg" alt="Resources" title="Resources" width="101" height="25" border="0"></a><a href="/contact/"><img src="/images/menu/NavPriCon_off.jpg" alt="Contact" title="Contact" width="101" height="25" border="0"></a></td>
+            </tr>
+          </table></td>
+          <td><img src="" alt="" name="spacer" width="1" height="1" id="spacer"></td>
+        </tr>
+        <tr>
+          <td align="right">&nbsp;</td>
+          <td width="750" bgcolor="#FFFFFF">
+           <div id="BreadCrumbs">
+		   <table width="100%" border="0" cellpadding="0" cellspacing="0">
+		   <tr valign="middle">
+		   <td>
+		   &nbsp;&nbsp;<!-- InstanceBeginEditable name="BreadCrumbs" --><!-- InstanceEndEditable -->
+		   </td>
+                  <td align="right"><!-- Google Site Search Script -->
+<form action="http://continuingeducation.bellevuecollege.edu/world-languages-institute/site_search_results.html" id="cse-search-box">
+  <div style="text-align:right;display:inline;">
+    <input type="hidden" name="cx" value="000118827344369686754:aolgclqldqk">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="31">
+    <input type="submit" name="sa" value="Search">
+  </dJohniv>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<!-- End of Google Site Search Script --></td>
+		   </tr>
+		   </table></div>
+		   <div>
+		  <table border="0" cellpadding="0" cellspacing="0">
+	   <tr valign="top">
+        <td>
+        	<a name="skip-to-content"></a>
+            <div>
+              
+
+<!--<div id="nav">
+    <ul class="level0">
+      <li>Program Areas</li>
+    </ul>
+</div>-->
+<div id="NavPanel" class="navPanel">
+    <ul id="navMenu"> 
+        <li ><a href='http://continuingeducation.bellevuecollege.edu/arts/'>Arts & Design</a><ul class='subMenu'><li><a href='http://continuingeducation.bellevuecollege.edu/arts/graphicdesign/'>Graphic Design</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/businessofart.asp'>Professional Development</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/visualarts.asp'>Visual Arts</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/literaryarts.asp'>Literary Arts</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/performingarts.asp'>Performing Arts</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/artofcraft.asp'>Art of Craft</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/supplylist.asp'>Class
+Supplies</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/summer/'>Summer Programs for Teens</a></li></ul></li><li ><a href='http://continuingeducation.bellevuecollege.edu/business/'>Business</a><ul class='subMenu'><li><a href='http://continuingeducation.bellevuecollege.edu/business/'>Business & Professional
+Development</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/bti/'>Corporate
+Training:<br> Business Training Institute</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/realestate/'>Real
+Estate</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/business/hr/'>Human Resources</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/business/pm/'>Project Management</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/business/techwriting/'>Technical Communication</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/summer/'>Summer Programs for Teens</a></li></ul></li><li ><a href='http://continuingeducation.bellevuecollege.edu/computers/'>Computers &
+Technology</a><ul class='subMenu'><li><a href='http://continuingeducation.bellevuecollege.edu/computers/'>Computers &
+Technology</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/bti/'>Corporate
+Training:<br> Business Training Institute</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/csharp/'>C# Programming</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/database/'>Database</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/graphicdesign/'>Graphic Design</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/swt/'>Software Testing</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/webdesign/'>Web Design</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/webdevelopment/'>Web Development</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/testing/'>Testing
+Center</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/summer/'>Summer Programs for Teens</a></li></ul></li><li class='noArrow'><a href='http://continuingeducation.bellevuecollege.edu/medical/'>Medical Programs</a></li><li ><a href='http://continuingeducation.bellevuecollege.edu/langtrav/'>Languages &
+Travel</a><ul class='subMenu'><li><a href='http://continuingeducation.bellevuecollege.edu/world-languages-institute/'>World
+Languages Institute</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/translation/'>Translation &
+Interpretation</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/travel/'>Travel</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/bti/'>Corporate
+Training:<br> Business Training Institute</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/summer/'>Summer Programs for Teens</a></li></ul></li><li ><a href='http://continuingeducation.bellevuecollege.edu/pe/'>Personal
+Enrichment</a><ul class='subMenu'><li><a href='http://www.campusce.net/BC/category/category.aspx?S=1066'>Course Offerings</a></li><li><a href='http://www.campusce.net/BC/category/category.aspx?C=1066&amp;S=1390&amp;sc=1066'>Business, Finance & Investing</a></li><li><a href='http://www.campusce.net/BC/category/category.aspx?C=1066&amp;S=1388'>Cooking</a></li><li><a href='http://www.campusce.net/BC/category/category.aspx?C=1066&amp;S=1067'>Health & Fitness</a></li><li><a href='http://www.campusce.net/BC/category/category.aspx?C=1066&amp;S=1389'>Home & Garden</a></li><li><a href='http://www.campusce.net/BC/category/category.aspx?C=1066&amp;S=1387'>Personal Development</a></li><li><a href='http://www.campusce.net/BC/category/category.aspx?C=1066&amp;S=1383&amp;sc=1066'>Special Offerings</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/summer/'>Summer Programs for Teens</a></li></ul></li><li class='noArrow'><a href='http://continuingeducation.bellevuecollege.edu/summer/'>Summer Program for Teens</a></li><li class='noArrow'><a href='http://continuingeducation.bellevuecollege.edu/telos/'>Telos for
+Retirees</a></li><li ><a href='http://continuingeducation.bellevuecollege.edu/programs/certificates.asp'><em><strong>Certificate Programs</strong></em></a><ul class='subMenu'><li><a href='http://continuingeducation.bellevuecollege.edu/programs/certificates.asp'>Certificate Programs</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/csharp/'>C# Programming</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/database/'>Database</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/arts/graphicdesign/'>Graphic Design</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/business/hr/'>Human Resources Management</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/business/pm/'>Project Management</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/swt/'>Software Testing</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/business/techwriting'>Technical Writing</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/translation'>Translation and Interpretation</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/webdesign/'>Web Design</a></li><li><a href='http://continuingeducation.bellevuecollege.edu/computers/webdevelopment/'>Web Development</a></li></ul></li><li class='noArrow'><a href='http://continuingeducation.bellevuecollege.edu/bti/'><em><strong>
+Corporate Training:<br />Business Training Institute</strong></em></a></li>
+   </ul>
+</div>
+
+<div>
+
+	<p>&nbsp;</p>
+
+	
+	    <p>&nbsp;</p>
+</div>
+<div>
+<center>
+ <a onclick="window.location='mailto:ce-ideas@bellevuecollege.edu?subject=CE-Ideas'" target="_blank"><img src="http://continuingeducation.bellevuecollege.edu/images/home/ce-ideas.jpg" width="175" height="65" alt="Suggestions or comments? Send a message to ce-ideas@bellevuecollege.edu and tell us how we're doing."></a></center>
+ </div>
+
+
+
+
+
+            </div>
+		<div align="center">
+		  <a href=""></a>
+		  </div></td>
+	    <td align="left">
+         <div id="ContentColumn"><!-- InstanceBeginEditable name="Content" -->
+<!--EDITS START HERE-->
+
+    <script language="JavaScript" type="text/javascript">
+<!--
+
+function random_imglink(){
+var myimages=new Array()
+//specify random images below. You can have as many as you wish
+myimages[1]="images/hb/certificatemini.jpg"
+myimages[2]="images/hb/homehrmini.jpg"
+myimages[3]="images/hb/hometranslationmini.jpg"
+myimages[4]="images/hb/homewebdesignmini.jpg"
+myimages[5]="images/hb/homepmmini.jpg"
+myimages[6]="images/hb/hometechwritingmini.gif"
+
+myimages[7]="images/hb/poppinjays.jpg"
+myimages[8]="images/hb/homegraphicdesignmini.jpg"
+myimages[9]="images/hb/homesoftwaretestingmini.jpg"
+
+myimages[10]="images/hb/homecsharpmini.jpg"
+myimages[11]="images/hb/homedatabasemini.jpg"
+myimages[12]="images/hb/medicalcodingmini.gif"
+myimages[13]="images/hb/cliffhanks.jpg"
+myimages[14]="images/hb/samsaunders.jpg"
+myimages[15]="images/hb/carlvonpapp.jpg"
+
+
+//specify corresponding links below
+var imagelinks=new Array()
+imagelinks[1]="http://continuingeducation.bellevuecollege.edu/programs/certificates.asp"
+imagelinks[2]="http://continuingeducation.bellevuecollege.edu/business/hr/"
+imagelinks[3]="http://continuingeducation.bellevuecollege.edu/translation/"
+imagelinks[4]="http://continuingeducation.bellevuecollege.edu/computers/webdesign/"
+imagelinks[5]="http://continuingeducation.bellevuecollege.edu/business/pm/"
+imagelinks[6]="http://continuingeducation.bellevuecollege.edu/business/techwriting/"
+
+imagelinks[7]="http://continuingeducation.bellevuecollege.edu/resources/cafe.asp"
+imagelinks[8]="http://continuingeducation.bellevuecollege.edu/arts/graphicdesign/"
+imagelinks[9]="http://continuingeducation.bellevuecollege.edu/computers/swt/"
+
+imagelinks[10]="http://continuingeducation.bellevuecollege.edu/computers/csharp/"
+imagelinks[11]="http://continuingeducation.bellevuecollege.edu/computers/database/"
+imagelinks[12]="http://continuingeducation.bellevuecollege.edu/medical/"
+imagelinks[13]="http://continuingeducation.bellevuecollege.edu/computers/"
+imagelinks[14]="http://continuingeducation.bellevuecollege.edu/computers/"
+imagelinks[15]="http://continuingeducation.bellevuecollege.edu/computers/"
+
+
+var alttags=new Array()
+alttags[1]="Certificate&nbsp;Programs"
+alttags[2]="Human&nbsp;Resources&nbsp;Program"
+alttags[3]="Translation&nbsp;and&nbsp;Interpretation&nbsp;Program"
+alttags[4]="Web&nbsp;Design&nbsp;Program"
+alttags[5]="Project&nbsp;Management&nbsp;Program"
+alttags[6]="Technical&nbsp;Writing&nbsp;Program"
+
+alttags[7]="Poppinjay's&nbsp;Caf&#233;"
+alttags[8]="Graphic&nbsp;Design&nbsp;Program"
+alttags[9]="Software&nbsp;Testing&nbsp;Programs"
+
+alttags[10]="C#&nbsp;Programs"
+alttags[11]="Database&nbsp;Programs"
+alttags[12]="Medical&nbsp;Coding&nbsp;Specialist&nbsp;Program"
+alttags[13]="Cliff&nbsp;Hanks&ndash;Microsoft&nbsp;Office&nbsp;Instructor"
+alttags[14]="Sam&nbsp;Saunders&ndash;Microsoft&nbsp;Office&nbsp;Instructor"
+alttags[15]="Carl&nbsp;Von&nbsp;Papp&ndash;Computer&nbsp;Basics&nbsp;Instructor"
+
+
+var ry=Math.floor(Math.random()*myimages.length)
+if (ry==0)
+ry=1
+document.write('<a href='+'"'+imagelinks[ry]+'"'+'><img src="'+myimages[ry]+'" border=0 height="225" width = "500"'+'alt=Link'+'&nbsp;'+'to'+'&nbsp;'+'Bellevue'+'&nbsp;'+'College'+'&nbsp;'+'Continuing'+'&nbsp;'+'Education'+'&nbsp;'+alttags[ry]+'></a>')
+}
+random_imglink()
+//-->
+</script>
+<div class="SEOH1"><h1>Bellevue College Continuing Education</h1></div>
+ <div>
+<p>Bellevue College Continuing Education provides professional training, certificate programs and personal enrichment classes to adults in the Seattle-Bellevue area. Whether you want to enhance your professional skills, change careers or explore a new interest, we have a program for you.</p> 
+ </div>
+
+<div class="SEOH2"><h2>Receive real-world, professional training</h2></div>  
+<div>
+<p>Boost your earning potential today. Our instructors are experienced professionals who are currently working in their field. Classes offer you the practical, professional skills most in demand in today's workplace.</p>
+ </div>
+<div class="SEOH2"><h2>Earn a professional certificate in as little as 6 months</h2></div> 
+<div>
+<p>Bellevue College Continuing Education offers professional certificate programs in high-demand careers including Project Management, Computer Programming, Human Resources and Database Administration.
+<ul>
+<li>Day and evening courses</li>
+<li>Start any time you like</li>
+<li>Complete at your own pace</li>
+</ul>
+</p>
+ </div>
+<div class="SEOH2"><h2>Learn something new</h2></div>
+<div>
+<ul>
+<li><strong>World Languages Institute</strong> offers classes in 18 different languages, including Spanish, French, Italian and Japanese.</li>
+<li><strong>Personal enrichment programs</strong> are offered in art, fitness, finance and more.</li>
+</ul>
+</div>
+
+<!--EDITS END HERE-->
+
+
+<!-- InstanceEndEditable --></div>
+		 </td>
+       </tr>
+	  
+	  
+
+
+      </table>
+		   </div>
+		  
+		  </td>
+          <td>&nbsp;</td>
+        </tr>
+      </table></td>
+    </tr>
+</table>
+
+
+
+
+<table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+	  <table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+	  <tr>
+	  <td width="750" height="38" colspan="3" background="/images/home/footer.png" valign="bottom">
+	  <div id="Footer"><!-- #BeginLibraryItem "/Library/copyright.lbi" -->
+Copyright &copy; 2010 <a href="http://www.bellevuecollege.edu/" target="_blank">Bellevue College</a> | <a href="http://continuingeducation.bellevuecollege.edu/about/locations_north.asp" target="_blank">Continuing Education</a>, 14673 NE 29th Place | 425.564.2263 | <a href="http://www.bellevuecollege.edu/about/around/directions/maps/main.asp" target="_blank">Main Campus</a>, 3000 Landerholm Circle SE
+<!-- #EndLibraryItem --></div>	  </td>
+	  </tr>
+	  </table>	   </td>
+    </tr>
+</table>
+<script>startList();</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16482970-1");
+pageTracker._setDomainName(".bellevuecollege.edu");
+pageTracker._setAllowLinker(true);
+pageTracker._setAllowHash(false);
+pageTracker._trackPageview();
+} catch (err) { }</script>
+
+
+</body>
+<!-- InstanceEnd --></html>
